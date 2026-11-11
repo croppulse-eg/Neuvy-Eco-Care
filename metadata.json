@@ -1,0 +1,6 @@
+{
+  "name": "NEUVY Eco-Care",
+  "description": "Medical hygiene ecosystem redefining safety, trust, and women's health protection in dermatology and aesthetic clinics across MENA & Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
